@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "e4165b1ac5da462332a05bc89d600c62"
+build_time: [1620385648, 31685000]
+inputs:
+  "/Users/dongdong/Desktop/GrajProj/GP/ios/Runner/AppDelegate.swift": !dirty [1605793840, 756160736]
