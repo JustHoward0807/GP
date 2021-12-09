@@ -17,7 +17,7 @@ Team members:
 
 ## Introduction
 
-Since our school require 5 different points category(18 points each, 90 points in total) in order to graduate. But we don't have any tools or APP that help us develop a convinient way to collect those points. We always have to check out the school website and download the .xlsx file to look at tons of events that provide 1 or 2 points while the file data are really messy. Therefore, We decided to make an APP that help our students to get points in more efficient way.
+Since our school require 5 different points category(18 points each, 90 points in total) in order to graduate. But we don't have any tools or APP that help us develop a convenient way to collect those points. We always have to check out the school website and download the .xlsx file to look at tons of events that provide 1 or 2 points, while the file data are really messy. Therefore, We decided to make an APP that help our students to get points in more efficient way.
 
 ![graduation](https://github.com/JustHoward0807/GP/blob/main/assets/github%20images/graduation.png)
 
@@ -34,15 +34,15 @@ This way, we could view the number of events around us.
 
 <img src="https://github.com/JustHoward0807/GP/blob/main/assets/github%20images/5.jpg" width="500" height="500" />
 
-Show how many points we have now. Everytime we attend an events using our APP will automatically increase the points that event provide.
+Show how many points we have now. Every time we attend an event using our APP will automatically increase the points that event provides.
 
 <hr>
 
 <img src="https://github.com/JustHoward0807/GP/blob/main/assets/github%20images/1.jpg" width="500" height="500" />
 
-(In this pic, the point category is 智(intelligence))
+(In this pic, the point category is 智(wisdom))
 
-Display related events in that point category, and tips on top show us if the event already attended(blue) or collected(next to the blue one). If did'nt attend or collect this event, it will represent in dotted line.
+Display related events in that point category, and tips on top show us if the event already attended(blue) or collected(next to the blue one). If didn't attend or collect this event, it will represent in dotted line.
 
 <hr>
 
@@ -52,7 +52,8 @@ The attended event will be here and able to upload a photo.
 <hr>
 
 <img src="https://github.com/JustHoward0807/GP/blob/main/assets/github%20images/3.jpg" width="500" height="500" />
-The collected event will be here if the user haven't decide whether to attend it or not.
+The collected event will be here if the user haven't decided whether to attend it or not.
+
 
 <hr>
 
